@@ -28,7 +28,7 @@
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -43,7 +43,7 @@
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -58,7 +58,7 @@
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -73,7 +73,7 @@
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -88,7 +88,7 @@
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -103,7 +103,7 @@
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -118,7 +118,7 @@
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -133,7 +133,7 @@
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -159,7 +159,7 @@
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -174,7 +174,7 @@
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -189,7 +189,7 @@
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -204,7 +204,7 @@
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -219,7 +219,7 @@
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -234,7 +234,7 @@
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -249,7 +249,7 @@
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
@@ -264,7 +264,7 @@
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
-                        if (ticTacToe[2, 2] == "1")
+                        if (siONoPendejo == "1")
                         {
                             numeroParaElWhile++;
                         }
