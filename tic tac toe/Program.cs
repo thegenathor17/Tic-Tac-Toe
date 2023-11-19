@@ -21,8 +21,21 @@
                     Console.Write($"{ticTacToe[2, 0]} ");
                     Console.Write($"{ticTacToe[2, 1]} ");
                     Console.WriteLine($"{ticTacToe[2, 2]} ");
-                    Tuple<int, int> coordenadasJugador1 = Jugador1();
-                    ticTacToe[coordenadasJugador1.Item1, coordenadasJugador1.Item2] = "O";
+                    sbyte numeroParaElWhileDeLosJugadores = 1;
+                    while (numeroParaElWhileDeLosJugadores == 1)
+                    {
+                        Tuple<int, int> coordenadasJugador1 = Jugador1();
+                        if (ticTacToe[coordenadasJugador1.Item1, coordenadasJugador1.Item2] != "X")
+                        {
+                            ticTacToe[coordenadasJugador1.Item1, coordenadasJugador1.Item2] = "O";
+                            numeroParaElWhileDeLosJugadores++;
+                        }
+                        else
+                        {
+                            Console.WriteLine("No puedes poner tu O en la X del jugador 2");
+                        }
+                    }
+                    //La X es la mejor
                     if (ticTacToe[0, 0] == "O" && ticTacToe[0, 1] == "O" && ticTacToe[0, 2] == "O")
                     {
                         Console.WriteLine("El jugador 1 ha ganado");
@@ -152,8 +165,19 @@
                     Console.Write($"{ticTacToe[2, 0]} ");
                     Console.Write($"{ticTacToe[2, 1]} ");
                     Console.WriteLine($"{ticTacToe[2, 2]} ");
-                    Tuple<int, int> coordenadasJugador2 = Jugador2();
-                    ticTacToe[coordenadasJugador2.Item1, coordenadasJugador2.Item2] = "X";
+                    while (numeroParaElWhileDeLosJugadores == 2)
+                    {
+                        Tuple<int, int> coordenadasJugador1 = Jugador2();
+                        if (ticTacToe[coordenadasJugador1.Item1, coordenadasJugador1.Item2] != "O")
+                        {
+                            ticTacToe[coordenadasJugador1.Item1, coordenadasJugador1.Item2] = "X";
+                            numeroParaElWhileDeLosJugadores++;
+                        }
+                        else
+                        {
+                            Console.WriteLine("No puedes poner tu X en la O del jugador 1");
+                        }
+                    }
                     if (ticTacToe[0, 0] == "X" && ticTacToe[0, 1] == "X" && ticTacToe[0, 2] == "X")
                     {
                         Console.WriteLine("El jugador 2 ha ganado");
