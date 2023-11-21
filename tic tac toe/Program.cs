@@ -38,6 +38,15 @@
                     //La X es la mejor
                     if (ticTacToe[0, 0] == "O" && ticTacToe[0, 1] == "O" && ticTacToe[0, 2] == "O")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -53,6 +62,15 @@
                     }
                     else if (ticTacToe[1, 0] == "O" && ticTacToe[1, 1] == "O" && ticTacToe[1, 2] == "O")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -68,6 +86,15 @@
                     }
                     else if (ticTacToe[2, 0] == "O" && ticTacToe[2, 1] == "O" && ticTacToe[2, 2] == "O")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -83,6 +110,15 @@
                     }
                     else if (ticTacToe[0, 0] == "O" && ticTacToe[1, 0] == "O" && ticTacToe[2, 0] == "O")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -98,6 +134,15 @@
                     }
                     else if (ticTacToe[1, 1] == "O" && ticTacToe[2, 1] == "O" && ticTacToe[0, 1] == "O")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -113,6 +158,15 @@
                     }
                     else if (ticTacToe[2, 2] == "O" && ticTacToe[1, 2] == "O" && ticTacToe[0, 2] == "O")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -128,6 +182,15 @@
                     }
                     else if (ticTacToe[0, 0] == "O" && ticTacToe[1, 1] == "O" && ticTacToe[2, 2] == "O")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 1 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -143,7 +206,40 @@
                     }
                     else if (ticTacToe[0, 2] == "O" && ticTacToe[1, 1] == "O" && ticTacToe[2, 0] == "O")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 1 ha ganado");
+                        Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
+                        string siONoPendejo = Console.ReadLine();
+                        if (siONoPendejo == "1")
+                        {
+                            numeroParaElWhile++;
+                        }
+                        else
+                        {
+                            numeroParaElWhile++;
+                            numeroParaElWhileGeneral++;
+                        }
+                    }
+                    else if (ticTacToe[0,0] != "1" && ticTacToe[0,1] != "2" && ticTacToe[0,2] != "3" && ticTacToe[1,0] != "4" && ticTacToe[1,1] != "5" && ticTacToe[1,2] != "6" && ticTacToe[2,0] != "7" && ticTacToe[2,1] != "8" && ticTacToe[2,2] != "9")
+                    {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
+                        Console.WriteLine("Esto es un empate");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
                         if (siONoPendejo == "1")
@@ -180,6 +276,15 @@
                     }
                     if (ticTacToe[0, 0] == "X" && ticTacToe[0, 1] == "X" && ticTacToe[0, 2] == "X")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -195,6 +300,15 @@
                     }
                     else if (ticTacToe[1, 0] == "X" && ticTacToe[1, 1] == "X" && ticTacToe[1, 2] == "X")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -210,6 +324,15 @@
                     }
                     else if (ticTacToe[2, 0] == "X" && ticTacToe[2, 1] == "X" && ticTacToe[2, 2] == "X")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -225,6 +348,15 @@
                     }
                     else if (ticTacToe[0, 0] == "X" && ticTacToe[1, 0] == "X" && ticTacToe[2, 0] == "X")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -240,6 +372,15 @@
                     }
                     else if (ticTacToe[1, 1] == "X" && ticTacToe[2, 1] == "X" && ticTacToe[0, 1] == "X")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -255,6 +396,15 @@
                     }
                     else if (ticTacToe[2, 2] == "X" && ticTacToe[1, 2] == "X" && ticTacToe[0, 2] == "X")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -270,6 +420,15 @@
                     }
                     else if (ticTacToe[0, 0] == "X" && ticTacToe[1, 1] == "X" && ticTacToe[2, 2] == "X")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 2 ha ganado");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
@@ -285,7 +444,40 @@
                     }
                     else if (ticTacToe[0, 2] == "X" && ticTacToe[1, 1] == "X" && ticTacToe[2, 0] == "X")
                     {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
                         Console.WriteLine("El jugador 2 ha ganado");
+                        Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
+                        string siONoPendejo = Console.ReadLine();
+                        if (siONoPendejo == "1")
+                        {
+                            numeroParaElWhile++;
+                        }
+                        else
+                        {
+                            numeroParaElWhile++;
+                            numeroParaElWhileGeneral++;
+                        }
+                    }
+                    else if (ticTacToe[0,0] != "1" && ticTacToe[0,1] != "2" && ticTacToe[0,2] != "3" && ticTacToe[1,0] != "4" && ticTacToe[1,1] != "5" && ticTacToe[1,2] != "6" && ticTacToe[2,0] != "7" && ticTacToe[2,1] != "8" && ticTacToe[2,2] != "9")
+                    {
+                        Console.Write($"{ticTacToe[0, 0]} ");
+                        Console.Write($"{ticTacToe[0, 1]} ");
+                        Console.WriteLine($"{ticTacToe[0, 2]} ");
+                        Console.Write($"{ticTacToe[1, 0]} ");
+                        Console.Write($"{ticTacToe[1, 1]} ");
+                        Console.WriteLine($"{ticTacToe[1, 2]} ");
+                        Console.Write($"{ticTacToe[2, 0]} ");
+                        Console.Write($"{ticTacToe[2, 1]} ");
+                        Console.WriteLine($"{ticTacToe[2, 2]} ");
+                        Console.WriteLine("Esto es un empate");
                         Console.WriteLine("Quieren empezar otro juego? 1. Si 2. No");
                         string siONoPendejo = Console.ReadLine();
                         if (siONoPendejo == "1")
